@@ -1,0 +1,21 @@
+.cabeçalho, .rodape {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px bold black;
+    padding: 20px;
+}
+.cabeçalho{
+    background-color: blue;
+}
+
+.rodape{
+    background-color: gray;
+}
+
+.text{
+    font: arial;
+    color: green;
+    font-size: 16px;
+    padding: 50px;
+}
